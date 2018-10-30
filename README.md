@@ -43,7 +43,7 @@ $(document).ready(function () {
 });
 ```
 
-4. Pour charger le contenu des autres pages dans notre home, il suffirat d'y introduire la div data avec les différents scripts mentionné dans l'étape 3.
+4. Pour charger le contenu des autres pages dans notre home, il suffirat d'y introduire la div data avec les différents scripts mentionné dans l'étape 2.
 
 ```html
 <!-- futurama.html -->
