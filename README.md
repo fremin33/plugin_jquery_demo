@@ -4,7 +4,7 @@
 
 ## Getting started
 
-- Cloner le repo: `git@github.com:fremin33/plugin_jquery.git`
+- Cloner le repo: `git@github.com:fremin33/plugin_jquery_demo.git`
 
 ## Setup
 
