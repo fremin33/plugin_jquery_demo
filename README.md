@@ -38,6 +38,7 @@
 3. Appeler le plugin dans votre fichier JS en sélectionnant les liens de votre menu :
 
 ```javascript
+// js/index.js
 $(document).ready(function () {
     $('#myMenu a').myPlugin();
 });
