@@ -1,5 +1,5 @@
 (function ($) {
-    $.fn.myPlugin = function (options) {
+    $.fn.loadWithAjax = function (options) {
         // Déclarations de valeurs par défaut
         let settings = $.extend({
             output: 'output',

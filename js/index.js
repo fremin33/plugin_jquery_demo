@@ -1,3 +1,3 @@
 $(document).ready(function () {
-    $('#myMenu a').myPlugin();
+    $('#myMenu a').loadWithAjax();
 });
