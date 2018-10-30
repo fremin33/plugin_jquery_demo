@@ -1,6 +1,7 @@
 # Plugin jQuery Fremin Florian
 
 > jQuery plugin permettant la création d'une navigation en Ajax.
+demo : https://demo-plugin-ajax-jquery.herokuapp.com/
 - Le plugin fonctionne sur les liens d'une page choisits
 - Le plugin si il est désactiver n'empêche pas le fonctionnement de votre navigation.
 - Le plugin prend en charge l'historique du navigateur (gestion de l'api History, et de l'event popstate)
