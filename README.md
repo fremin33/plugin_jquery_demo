@@ -1,7 +1,7 @@
 # Plugin jQuery Fremin Florian
 
 > jQuery plugin permettant la création d'une navigation en Ajax.
-- Le plugin doit pouvoir fonctionner sur les liens d'une page choisits
+- Le plugin fonctionne sur les liens d'une page choisits
 - Le plugin si il est désactiver n'empêche pas le fonctionnement de votre navigation.
 - Le plugin prend en charge l'historique du navigateur (gestion de l'api History, et de l'event popstate)
 - Une transition est mis en place pour indiquer à l'utilisateur qu'un contenu est en cours de chargement
